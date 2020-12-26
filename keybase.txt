@@ -79,4 +79,72 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/pulsedaemon
 
 ==================================================================
+==================================================================
+https://keybase.io/pulsedaemon
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://teneb.net
+  * I am pulsedaemon (https://keybase.io/pulsedaemon) on keybase.
+  * I have a public key with fingerprint A083 970D 814C A8AE 3730  659C 1FDC 156B CDCD 5615
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101d677f0ebe523014ba9925b2d8a1891d0372e7b9496c679e289315991cf3eec750a",
+      "fingerprint": "a083970d814ca8ae3730659c1fdc156bcdcd5615",
+      "host": "keybase.io",
+      "key_id": "1fdc156bcdcd5615",
+      "kid": "0101d677f0ebe523014ba9925b2d8a1891d0372e7b9496c679e289315991cf3eec750a",
+      "uid": "3bd5056f3e871b65d33aa4660dde4619",
+      "username": "pulsedaemon"
+    },
+    "service": {
+      "hostname": "teneb.net",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1608969712,
+  "expire_in": 157680000,
+  "prev": "20afc4527dbc98f32271cd598bcc31f7714bce2f265b9a4f8f44e85a536b1d3c",
+  "seqno": 25,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIlAnicrVJbbA1BGD5tXaKtW8U1CIsHVO3s7szuHA8uQaM0wQNCOZnb9mwvu8fu
+nqON1gNB4hoRqbg8UE00ROMWQohSEREREpRoSSQqKB5IVBCzDW8ezctk/v/7vvn+
+L3/bwJxYblZHybVtk2a9mJZ1r7UhHUu86f68UaEer1XiG5VK0XuJKi6CMFHpcCWu
+qEAFHJmmrQoqoKarwKAEYw1SjVsEWBhwVTc1YVJsYMSQiYVmYR1AjAGzdSGYCVWi
+FCq245YLP+U7bihliWrp2FS5BQxGLCJ0U1cRxAzYnAGIKOOMQwSgJCa9IGJIc5QE
+osjxZE0+Er32/oH/z77TvXI65VCFSDYsE1AEua4TYiCkci4MBHAEDITvkmoh0al0
+VSA4EdWeq9QXKrKRcZiIso2G+QMKhStokStCyU35Xugxr0qWk2GYikessDYVwTYI
+mvgjkKCOy2WMkpARfuBI9TiQSBY6kSJAqoURNoFWqIialOOLhBMhoIksVZ7oG5GR
+kppKbGZAzeSUYcvWNc0EMj5sUcZ0YJumzIoJzdYQpJgYtmUbhrAggTqigOtMiUZa
+73pKXIPSJymXmoFT7pIw7Qul/uaNsj6xrNxYv77Z0X7FcgcM+bt1uS/7/9LGlcZy
+/JEnfh45OGnH1JrOZQ0PN7V2+V/mJl+tBI+fDJs9f3L5xAPibWntlD207DS7Wr3k
+6PelewmpmpYs6Gn+FNxr/LU8/2N4dc2EO03H837c7LzrP13w+c376VvrCu5/a35U
+92xC+60H9Y3z2NDRaPryFT+LrO0Lr19qqZuxqHH1jWR6UEkm+8DwwW976otLsrtq
+u2tOk+wdl5MXxx+bdTjfb93/bldF+8tTx7+2JKxBD9oHHtWLK8rGLn59aNeW+aWN
+a7t+XPF3Bzm3L4+Zw2Y2rG06mVf9aKk64kNBG/L4vhPOefJ8c8/es81uz/OOzNlR
+Z4pXrSPdOy80Lc471/60JX9V229sUESE
+=cE7q
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pulsedaemon
+
+==================================================================
 
